@@ -1,0 +1,102 @@
+html {
+  height: 100%; }
+
+body {
+  background: #000;
+  color: #fff; }
+
+h1, h2, h3, h4, h5, .roboto {
+  font-family: "Roboto", Helvetica, Arial, san-serif; }
+
+h1 {
+  font-size: 4.375em;
+  font-weight: bold; }
+  h1 aside {
+    font-size: 1.8rem;
+    font-weight: normal;
+    text-transform: uppercase; }
+
+.fl {
+  display: flex;
+  flex-direction: column;
+  align-items: center; }
+
+.fl-jc-sa {
+  justify-content: space-around; }
+
+.fl-rw {
+  flex-direction: row; }
+
+.fl-jc-c {
+  justify-content: center; }
+
+.boxed {
+  background: #030206;
+  outline: 6px solid #FFFFFF;
+  color: #FFF;
+  padding: .4em;
+  display: inline-block;
+  margin: .25em 0; }
+
+header {
+  color: #000;
+  height: 70vh;
+  min-height: 50rem;
+  background: #FFF url("../img/bg.jpg") no-repeat top right;
+  background-size: contain; }
+  header #deets {
+    background: #fff;
+    width: 48%;
+    padding: .8rem .8rem 0 0; }
+  header img.logo {
+    width: 13.75rem;
+    background: white;
+    padding: .8rem;
+    padding-left: 0; }
+
+.container {
+  max-width: 68rem;
+  padding: 1rem; }
+
+#sign-up {
+  width: 30rem;
+  background: #336DF8;
+  color: #fff;
+  text-decoration: none;
+  padding: 1.5rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  position: fixed;
+  left: 50%;
+  margin-left: -15rem;
+  bottom: 2rem;
+  border-radius: 3px;
+  box-shadow: 0 12px 14px 0 rgba(0, 0, 0, 0.2);
+  border-radius: .5rem;
+  transition: all .3s; }
+  #sign-up span {
+    font-family: Roboto, helvetica, arial, sans-serif;
+    font-weight: bold;
+    font-size: 1.2rem;
+    color: #FFFFFF;
+    text-align: center;
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
+    opacity: .9;
+    transition: all .3s; }
+  #sign-up:hover {
+    background-position: 100px;
+    transform: translateY(-0.1em);
+    background: #245DE5; }
+    #sign-up:hover span {
+      opacity: 1; }
+
+section#prizes div > div {
+  text-align: center;
+  width: 35%;
+  max-width: 24rem;
+  margin: 1rem; }
+  section#prizes div > div h2 {
+    margin: -.5em;
+    font-size: 1.8em; }
