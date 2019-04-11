@@ -239,11 +239,12 @@ section#prizes {
   margin-left: .8rem; }
 
 #judge {
-  flex: 2; }
+  flex: 2;
+  min-width: 650px; }
 
 #contact {
   flex: 1;
-  min-width: 800px; }
+  min-width: 500px; }
 
 footer#judge-labs {
   justify-content: flex-start;
