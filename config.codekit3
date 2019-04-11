@@ -281,6 +281,97 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/img/eth-pattern-drk.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/eth-pattern-drk.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/img/eth-pattern-lgt.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/eth-pattern-lgt.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/img/eth-pattern.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/eth-pattern.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/img/footer-bg.jpg": {
+		"ft": 16384,
+		"iS": 3889012,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/footer-bg.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/img/ico-agri.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/ico-agri.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/img/ico-can.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/ico-can.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/img/ico-game.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/ico-game.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/img/ico-realestate.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/ico-realestate.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/img/ico-sbl.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/ico-sbl.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"/img/labs-bg-mask.sketch": {
 		"cB": 0,
 		"ft": 8192,
@@ -288,6 +379,16 @@
 		"oA": 0,
 		"oAP": "/img/labs-bg-mask.sketch",
 		"oF": 0
+		},
+	"/img/logo-wh.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/logo-wh.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
 		},
 	"/img/logo.svg": {
 		"ft": 2097152,
@@ -299,6 +400,17 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"/img/mobile-top-bg.jpg": {
+		"ft": 16384,
+		"iS": 4778124,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/mobile-top-bg.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/img/tracks-bg.jpg": {
 		"ft": 16384,
 		"iS": 445810,
@@ -307,7 +419,7 @@
 		"oAP": "/img/tracks-bg.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/index.html": {
@@ -325,28 +437,6 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "/js/main-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/js/plugins.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/js/plugins-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/js/vendor/jquery-3.3.1.min.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/js/vendor/jquery-3.3.1.min-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -378,15 +468,18 @@
 		"oAP": "/robots.txt",
 		"oF": 0
 		},
-	"/scss/main.css": {
-		"aP": 1,
+	"/scss/_responsive.scss": {
+		"aP": 0,
 		"bl": 0,
-		"ft": 16,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
 		"ma": 0,
-		"oA": 0,
-		"oAP": "/scss/main-min.css",
+		"oA": 1,
+		"oAP": "/css/_responsive.css",
 		"oF": 0,
-		"oS": 3
+		"oS": 0,
+		"uL": 1
 		},
 	"/scss/main.scss": {
 		"aP": 0,
