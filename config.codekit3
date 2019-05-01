@@ -411,6 +411,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/img/social-card.jpg": {
+		"ft": 16384,
+		"iS": 654495,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/social-card.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/img/tracks-bg.jpg": {
 		"ft": 16384,
 		"iS": 445810,
@@ -420,6 +431,28 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
+		"q": 100
+		},
+	"/img/youtube-ideacompany.jpg": {
+		"ft": 16384,
+		"iS": 732910,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/youtube-ideacompany.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/youtube-needblockchain.jpg": {
+		"ft": 16384,
+		"iS": 660981,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/youtube-needblockchain.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"/index.html": {
